@@ -1,4 +1,4 @@
-# Car_sale_prediction
+# Car sale prediction
 
 ### Overview
 This repository hosts a machine learning model for predicting car sales based on the Quikr dataset. The predictive model, developed using advanced algorithms, boasts an impressive accuracy of 90%. Accurate predictions of car sales can be instrumental for businesses and individuals in making informed decisions about pricing, marketing, and inventory management.
